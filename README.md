@@ -1,2 +1,2 @@
 # hola-mundo
-solo otro repositorio
+ando escribiendo bien shidory cosas de relleno para hacer el tutorial compa
